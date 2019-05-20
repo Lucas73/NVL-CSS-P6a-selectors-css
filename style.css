@@ -1,0 +1,46 @@
+*{
+  border: 1px solid;
+}
+body{
+  border-style: none !important;
+}
+html{
+  border-style: none !important;
+}
+td:first-child{
+  color:white
+}
+td:nth-child(){
+    font: normal small-caps normal 16px/1.4 sans-serif;
+}
+#one{
+  background-color: #FFFFFF;
+  color: #E6E6E6 !important;
+}
+#two{
+  background-color: #E6E6E6
+}
+#three{
+  background-color: #CCCCCC
+}
+#four{
+  background-color: #B3B3B3
+}
+#five{
+  background-color: #999999
+}
+#six{
+  background-color: #808080
+}
+#seven{
+  background-color: #666666
+}
+#eigth{
+  background-color: #4C4C4C
+}
+#nine{
+  background-color: #333333
+}
+#ten{
+  background-color: #000000
+}
